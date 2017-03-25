@@ -17,14 +17,7 @@ http://studentcommuteontario.weebly.com/
 How to download
 Unzip the downloaded app.
 Deploy it on your web server.
-Browse to the directory where the app from step 2 is locally hosted and open the app config.json file.
-Add a proxy to your app. Refer to Use proxy for details. 
-*Important: Make sure that the proxy applied to your app works as expected. The map or widgets might fail if the proxy is set inappropriately.
-Add and register the app. Refer to  Add apps  and Register your app for details.
-Copy and paste the AppID to the appId property in the config.json file. 
-Note: Skip step 5 and 6 if the app connects to a web-tire authenticated portal.
-Save the config.json file.
-View the locally hosted app in your browser.
+Browse to the directory where the app from step 2 is locally hosted and open the app
 
 Request Ride:
 Select “Request Ride” icon in Edit tool
