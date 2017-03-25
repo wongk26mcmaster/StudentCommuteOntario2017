@@ -17,7 +17,6 @@ http://studentcommuteontario.weebly.com/
 How to download
 Unzip the downloaded app.
 Deploy it on your web server.
-Browse to the directory where the app from step 2 is locally hosted and open the app
 
 Request Ride:
 Select “Request Ride” icon in Edit tool
